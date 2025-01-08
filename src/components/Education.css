@@ -1,0 +1,74 @@
+.edu-info-container{
+    margin-top: 10vh;
+    margin-left: 7%;
+    margin-right: 7%;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+}
+
+.edu-sheet {
+    justify-content: center;
+    background-color: #DDDDDD;
+    padding: 2%;
+    border-radius: 2%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.edu-info-psu {
+    font-size: 2rem;
+    color: #627254;
+    font-weight: bold;
+    text-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.edu-info-psu-desc {
+    font-size: 1.25rem;
+    color: #627254;
+}
+
+.edu-info-gpa-label {
+    font-weight: 700;
+    font-size: 2rem;
+    color: #627254;
+    text-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+}
+
+.edu-info-gpa {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 3.25rem;
+    color: #627254;
+    text-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+}
+
+.edu-info-img {
+    height: 223px;
+    width: auto;
+    border-radius: 2%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.edu-course-highlights-div {
+    width: 100%;
+}
+
+.edu-course-highlights {
+    text-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-size: 1.75rem;
+    margin-bottom: 3px;
+    color: #627254;
+    font-weight: bold;
+}
+
+.edu-course-highlights-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.edu-course-highlights-dsc {
+    font-size: 1.2rem;
+    color: #627254;
+}

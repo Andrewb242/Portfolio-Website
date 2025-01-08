@@ -1,0 +1,25 @@
+.skill-indicator-container {
+    margin: 15px;
+    background-color: #DDDDDD;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 10px;
+    height: 10vh;
+    transition: 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    margin-bottom: 2px;
+}
+
+.skill-indicator-container:hover {
+    transform: scale(1.1);
+}
+
+.skill-indicator-text{
+    color: #627254;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+}

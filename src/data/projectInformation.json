@@ -1,0 +1,19 @@
+{
+    "projects":[
+        {
+            "title": "Pipelined Mips Processor",
+            "github": "https://github.com/Andrewb242/Pipelined-Processor.git",
+            "description": "This project involves the design and implementation of a pipelined MIPS processor in Verilog, capable of executing I-type and R-type instructions. The processor employs a 5-stage pipeline consisting of IF (Instruction Fetch), ID (Instruction Decode), EX (Execute), MEM (Memory Access), and WB (Write-back) stages to enable efficient instruction processing. To enhance the performance of the pipeline, data forwarding is implemented to resolve data hazards by forwarding results from later stages back to earlier ones without waiting for memory write-back. Additionally, the processor includes stalls to handle control hazards and prevent incorrect instruction execution when branch instructions are encountered or when dependencies between instructions are detected. The processor can execute a subset of MIPS instructions, including arithmetic, logical, and memory operations. The system ensures proper handling of data dependencies, minimizing pipeline stalls while maintaining the correct instruction flow."
+        },
+        {
+            "title": "JBOD System with Network Communication and Cache in C",
+            "github": "https://github.com/Andrewb242/JBOD-System-C.git",
+            "description": "This project involved the development of a Just a Bunch Of Disks (JBOD) system programmed in C, designed to manage multiple storage devices and facilitate data reading and writing. The system features network communication using file descriptors, enabling communication between the JBOD server and client applications over a network. The project included the implementation of a functioning cache to enhance performance, where data was temporarily stored in memory through dynamic memory allocation. This allowed for efficient data retrieval and reduced access times to frequently used data. The JBOD system also supports basic read and write commands, enabling users to interact with the storage devices, perform data operations, and manage files. It is important to note that this was a school project, and while I implemented key components of the system, the JBOD server file (handling the server-side logic) was provided as part of the course materials and was not written by me."
+        },
+        {
+            "title": "Course Scheduler with GUI and SQL Database Integration",
+            "github": "https://github.com/Andrewb242/Course-Scheduler-CMPSI-221.git",
+            "description": "This project involves the development of a Course Scheduler application written in Java, designed to help students plan and manage their academic schedules. The system features a fully implemented Graphical User Interface (GUI), providing an intuitive and user-friendly platform for interacting with the application. The backend of the system is powered by a relational database, where SQL is used for efficient data storage and retrieval. The database manages various elements such as course details, student schedules, and semester information, ensuring that all data is securely stored and easily accessible. Users can add, update, and view their courses, and check course availability, all while the system maintains consistency and integrity through proper database management. This project demonstrates proficiency in both Java GUI programming and SQL database integration."
+        }
+    ]
+}

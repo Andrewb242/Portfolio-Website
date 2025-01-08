@@ -1,0 +1,48 @@
+{
+    "skills": [
+        {
+            "skill": "Python",
+            "imgUrl": "./images/skills-python.png"
+        },
+        {
+            "skill": "Java",
+            "imgUrl": "./images/skills-java.png"
+        },
+        {
+            "skill": "SQL",
+            "imgUrl": "./images/skills-sql.svg"
+        },
+        {
+            "skill": "JavaScript",
+            "imgUrl": "./images/skills-javascript.png"
+        },
+        {
+            "skill": "CSS",
+            "imgUrl": "./images/skills-css.svg"
+        },
+        {
+            "skill": "React",
+            "imgUrl": "./images/skills-react.png"
+        },
+        {
+            "skill": "HTML",
+            "imgUrl": "./images/skills-html.png"
+        },
+        {
+            "skill": "C",
+            "imgUrl": "./images/skills-c.png"
+        },
+        {
+            "skill": "MIPS Assembly",
+            "imgUrl": "./images/skills-mips-assembly.png"
+        },
+        {
+            "skill": "Verilog",
+            "imgUrl": "./images/skills-verilog.png"
+        },
+        {
+            "skill": "R",
+            "imgUrl": "./images/skills-r.png"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+.nav-container {
+    background-color: #EEEEEE;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'Roboto', sans-serif;
+    z-index: 2;
+  }
+  
+  .nav-text {
+    font-size: large;
+    color: #627254;
+    padding: 20px;
+    text-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .nav-list {
+    display: flex;
+    list-style-type: none;
+    padding: 10px;
+  }
+  
+  .nav-link {
+    padding: 10px;
+    color: #627254;
+    text-decoration: none;
+    text-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
