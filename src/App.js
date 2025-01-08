@@ -12,11 +12,11 @@ import Projects from './components/Projects';
 function App() {
   return (
     <div>
-    <Router>
+    <Router basename='/Portfolio-Website'>
     <Navbar/>
     <div className="App">
       <Routes>
-        <Route path="/Portfolio-Website" element={<Home/>} />
+        <Route path="/" element={<Home/>} />
         <Route path="/Education" element={<Education/>} />
         <Route path='/Skills' element={<Skills/>} />
         <Route path='/Projects' element={<Projects/>} />

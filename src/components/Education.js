@@ -17,7 +17,7 @@ export default function Education() {
                 <div className='edu-info-gpa-label'>Current GPA</div>
                 <div className='edu-info-gpa'>3.58</div>
             </div>
-            <img src='/images/edu-nittany-lion.jpg' alt="Penn State University" className="edu-info-img" />
+            <img src='./images/edu-nittany-lion.jpg' alt="Penn State University" className="edu-info-img" />
         </div>
         <div className='edu-info-container'>
         <div className='edu-course-highlights-div'>
