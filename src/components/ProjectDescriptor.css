@@ -9,6 +9,7 @@
 .project-dsc-glance-button {
     width: 100%;
     display: flex;
+    text-align: start;
     justify-content: space-between;
     font-size: 2rem;
     font-weight: bold;
