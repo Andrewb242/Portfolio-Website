@@ -13,6 +13,13 @@ export default function Home() {
             <li><text className='home-minor'>Cybersecurity and Mathematics</text></li>
           </ul>
           </div>
+          <h2 className='home-about-header'>Contact Information</h2>
+          <div className='home-about-paragraph'>
+            <p>Phone: (814)-424-5581</p>
+            <p>
+              Email: AndrewB2277@outlook.com
+            </p>
+          </div>
           <h2 className='home-about-header'>A Little About Me...</h2>
           <div className='home-about-paragraph'>
             <p>
@@ -28,7 +35,7 @@ export default function Home() {
               and creativity—skills I carry into every aspect of my life.
             </p>
             <p>
-              I am driven by the ability to learn quickly and solve problems efficiently. 
+              I am driven by the joy of learning and solving problems efficiently. 
               Whether facing a tough coding challenge or working under tight deadlines, 
               I approach each problem with determination and a calm mindset. 
               I thrive in high-pressure environments and am always eager to learn 
