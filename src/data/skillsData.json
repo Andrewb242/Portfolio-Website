@@ -45,6 +45,7 @@
             "imgUrl": "./images/skills-r.png"
         },
         { "skill": "JSON" },
+        { "skill": "Regex" },
         { "skill": "Relative Databases" },
         { "skill": "Statistical Analysis" },
         { "skill": "VSCode" },
