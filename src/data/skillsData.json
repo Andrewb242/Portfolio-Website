@@ -43,6 +43,29 @@
         {
             "skill": "R",
             "imgUrl": "./images/skills-r.png"
-        }
+        },
+        { "skill": "JSON" },
+        { "skill": "Relative Databases" },
+        { "skill": "Statistical Analysis" },
+        { "skill": "VSCode" },
+        { "skill": "Linux" },
+        { "skill": "Microsoft Word" },
+        { "skill": "Microsoft Excel" },
+        { "skill": "Microsoft PowerPoint" },
+        { "skill": "Figma" },
+        { "skill": "Obsidian" },
+        { "skill": "Notion" },
+        { "skill": "Adobe Photoshop" },
+        { "skill": "Adobe Illustrator" },
+        { "skill": "SolidWorks" },
+        { "skill": "VirtualBox" },
+        { "skill": "MatLab" },
+        { "skill": "Communication" },
+        { "skill": "Leadership" },
+        { "skill": "Problem Solving" },
+        { "skill": "Collaboration" },
+        { "skill": "Work Under Pressure" },
+        { "skill": "Innovation" },
+        { "skill": "Creative Solutions" }
     ]
 }
