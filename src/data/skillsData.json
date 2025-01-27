@@ -44,6 +44,7 @@
             "skill": "R",
             "imgUrl": "./images/skills-r.png"
         },
+        { "slill": "GitHub" },
         { "skill": "JSON" },
         { "skill": "Regex" },
         { "skill": "Relational Databases" },
