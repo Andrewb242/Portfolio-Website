@@ -1,7 +1,7 @@
 {
     "projects":[
         {
-            "title": "Pipelined Mips Processor",
+            "title": "Pipelined MIPS Processor",
             "github": "https://github.com/Andrewb242/Pipelined-Processor.git",
             "description": "This project involves the design and implementation of a pipelined MIPS processor in Verilog, capable of executing I-type and R-type instructions. The processor employs a 5-stage pipeline consisting of IF (Instruction Fetch), ID (Instruction Decode), EX (Execute), MEM (Memory Access), and WB (Write-back) stages to enable efficient instruction processing. To enhance the performance of the pipeline, data forwarding is implemented to resolve data hazards by forwarding results from later stages back to earlier ones without waiting for memory write-back. Additionally, the processor includes stalls to handle control hazards and prevent incorrect instruction execution when branch instructions are encountered or when dependencies between instructions are detected. The processor can execute a subset of MIPS instructions, including arithmetic, logical, and memory operations. The system ensures proper handling of data dependencies, minimizing pipeline stalls while maintaining the correct instruction flow."
         },
