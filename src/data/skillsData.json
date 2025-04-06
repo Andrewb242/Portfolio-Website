@@ -32,6 +32,7 @@
             "skill": "C",
             "imgUrl": "./images/skills-c.png"
         },
+        {"skill": "GDB"},
         {
             "skill": "MIPS Assembly",
             "imgUrl": "./images/skills-mips-assembly.png"
@@ -40,10 +41,7 @@
             "skill": "Verilog",
             "imgUrl": "./images/skills-verilog.png"
         },
-        {
-            "skill": "R",
-            "imgUrl": "./images/skills-r.png"
-        },
+        { "skill": "R" },
         { "slill": "GitHub" },
         { "skill": "JSON" },
         { "skill": "Regex" },

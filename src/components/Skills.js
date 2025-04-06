@@ -13,7 +13,7 @@ export default function Skills() {
   return (
     <div className='skills-container'>
       {skills.map((skill, index) => (
-        <SkillIndicator skillText={skill.skill} key={index}/>
+        skill.skill ? (<SkillIndicator skillText={skill.skill} key={index}/>) : null
       ))}
     </div>
   )
