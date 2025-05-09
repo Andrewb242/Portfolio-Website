@@ -28,6 +28,7 @@
     width: 5%;
     color: #627254;
     background-color: #DDDDDD;
+    justify-content: center;
 }
 
 .project-dsc-info-container {

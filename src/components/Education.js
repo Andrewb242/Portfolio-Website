@@ -31,8 +31,8 @@ export default function Education() {
               </div>
               <div>
                 <div className='edu-course-highlights-dsc'>MATH 415: Introduction to Mathematical Statistics</div>
-                <div className='edu-course-highlights-dsc'>CMPSC 465: Data Structures and Algorithms (Currently Enrolled)</div>
-                <div className='edu-course-highlights-dsc'>CMPSC 473: OS Design and Construction (Currently Enrolled)</div>
+                <div className='edu-course-highlights-dsc'>CMPSC 465: Data Structures and Algorithms</div>
+                <div className='edu-course-highlights-dsc'>CMPSC 473: OS Design and Construction</div>
               </div>
             </div>
           </div>
